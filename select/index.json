@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Descent",
+  "base_artist": "Fear Factory",
+  "createdAt": "2026-02-17T16:37:18.113480Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Slow Descent Into Alcoholism",
+      "artist": "The New Pornographers",
+      "has_synced": true,
+      "path": "select/01_The_Slow_Descent_Into_Alcoholism_The_New_Pornographers.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Slow Descent Into Alcoholi",
+      "artist": "The New Pornographers",
+      "has_synced": true,
+      "path": "select/02_The_Slow_Descent_Into_Alcoholi_The_New_Pornographers.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Descent of the Archangel",
+      "artist": "Kamelot",
+      "has_synced": true,
+      "path": "select/03_Descent_of_the_Archangel_Kamelot.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Descent to the Zenith",
+      "artist": "Earth",
+      "has_synced": false,
+      "path": "select/04_Descent_to_the_Zenith_Earth.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "My Descent Into Madness",
+      "artist": "Eels",
+      "has_synced": true,
+      "path": "select/05_My_Descent_Into_Madness_Eels.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Descent",
+      "artist": "Fear of Men",
+      "has_synced": true,
+      "path": "select/06_Descent_Fear_of_Men.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Descent Into Madness (Instrumental)",
+      "artist": "Flying Lotus",
+      "has_synced": false,
+      "path": "select/07_Descent_Into_Madness_(Instrumental)_Flying_Lotus.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Descent Into Madness",
+      "artist": "Flying Lotus feat. Thundercat",
+      "has_synced": true,
+      "path": "select/08_Descent_Into_Madness_Flying_Lotus_feat._Thundercat.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Descent into Madness (feat. Thundercat)",
+      "artist": "Flying Lotus",
+      "has_synced": true,
+      "path": "select/09_Descent_into_Madness_(feat._Thundercat)_Flying_Lotus.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Descent Into Eminent Silence",
+      "artist": "Immortal",
+      "has_synced": false,
+      "path": "select/10_Descent_Into_Eminent_Silence_Immortal.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Descent of the Apocalypse Lord, part 2 (Invocation and Defeat)",
+      "artist": "Fiurach",
+      "has_synced": false,
+      "path": "select/11_Descent_of_the_Apocalypse_Lord,_part_2_(Invocation_and_Defeat)_Fiurach.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Descent",
+      "artist": "Fear Factory",
+      "has_synced": false,
+      "path": "select/pl_01_Descent_Fear_Factory.txt"
+    }
+  ]
+}
